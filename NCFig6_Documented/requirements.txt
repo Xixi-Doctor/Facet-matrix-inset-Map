@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.8
+geopandas>=1.0
+shapely>=2.0
+pyproj>=3.6
+Pillow>=10
+nbformat>=5.9
+nbclient>=0.10
+ipykernel>=6
+jupyterlab>=4

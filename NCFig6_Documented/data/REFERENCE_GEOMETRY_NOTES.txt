@@ -1,0 +1,3 @@
+Province panel rectangles and relative bar geometry extracted from supplied paper PDF, page 10, Fig. 6.
+These normalized coordinates are visual drawing parameters, not newly estimated health burdens.
+Original CSV values remain unchanged. No reconciliation/rescaling of scientific estimates is performed in this version.
