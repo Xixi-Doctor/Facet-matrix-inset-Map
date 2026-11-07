@@ -1,5 +1,0 @@
-Input: 2024年省市县三级行政区划数据（审图号：GS（2024）0650号）.zip
-The original archive was provided by the user. These files are identical byte-for-byte to the source ZIP components except their filename stems and containing folder are changed to English.
-Original filename stems: 省, 市, 县, 十段线.
-New filename stems: province, city, county, south_china_sea_lines.
-All geometry and source encoding metadata are preserved; Python only performs display-time simplification and Chongqing city split after loading.
